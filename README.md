@@ -11,7 +11,7 @@ The Screenshot Capture App allows users to capture their screen with a simple ho
 
 ## Installation ⚙️
 
-1. Download the latest release from the [Releases](https://github.com/yourusername/Screenshot-Capture/releases) page.
+1. Download the repository.
 2. Extract the contents to your desired directory.
 3. Run `Main.exe` to start the application.
 
